@@ -1,0 +1,11 @@
+D:\VS Project\denemeyuv\denemeyuv\obj\Debug\denemeyuv.csprojAssemblyReference.cache
+D:\VS Project\denemeyuv\denemeyuv\obj\Debug\denemeyuv.Properties.Resources.resources
+D:\VS Project\denemeyuv\denemeyuv\obj\Debug\denemeyuv.csproj.GenerateResource.cache
+D:\VS Project\denemeyuv\denemeyuv\obj\Debug\denemeyuv.csproj.CoreCompileInputs.cache
+D:\VS Project\denemeyuv\denemeyuv\bin\Debug\denemeyuv.exe.config
+D:\VS Project\denemeyuv\denemeyuv\bin\Debug\denemeyuv.exe
+D:\VS Project\denemeyuv\denemeyuv\bin\Debug\denemeyuv.pdb
+D:\VS Project\denemeyuv\denemeyuv\obj\Debug\denemeyuv.exe
+D:\VS Project\denemeyuv\denemeyuv\obj\Debug\denemeyuv.pdb
+D:\VS Project\denemeyuv\denemeyuv\obj\Debug\denemeyuv.videoOynat.resources
+D:\VS Project\denemeyuv\denemeyuv\obj\Debug\denemeyuv.anaSayfa.resources
