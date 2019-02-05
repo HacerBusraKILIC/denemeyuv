@@ -1,4 +1,4 @@
-# denemeyuv
+# yuvCozucu
 YUV (Raw Data) ÇÖZÜCÜ
 •	Arayüz tasarımı: Tasarlanacak arayüz üzerinden dosya okuma, .bmp kaydetme, görüntü oynatma ve ayarlar seçeneği vardır.
 •	Dosya okuma: .yuv uzantılı dosyalar okunacak ve render/parse işlemine tabii tutulmuştur.
